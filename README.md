@@ -1,2 +1,1 @@
-# java-blackjack
-2020
+# Blackjack
